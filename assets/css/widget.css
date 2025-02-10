@@ -1,0 +1,15 @@
+/*!
+ * Виджет информационной панели "Версия системы".
+ *
+ * Copyright 2015 Вeб-студия GearMagic
+ * Copyright Anton Tivonenko <anton.tivonenko@gmail.com>
+ * https://gearmagic.ru/license/
+ */
+
+.g-widget-version label { color: #bbbbbb; }
+.g-widget-version .x-panel-body {
+    background-image: url("../images/icon_fill.svg") !important;
+    background-repeat: no-repeat !important;
+    background-position: -190px 0 !important;
+    background-size: cover !important;
+ }
