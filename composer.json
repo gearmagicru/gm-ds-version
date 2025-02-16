@@ -1,13 +1,7 @@
 {
     "name": "gearmagicru/gm-ds-version",
     "description": "Dashboard widget \"System version\"",
-    "keywords": [
-        "gm",
-        "gearmagic",
-        "dashboard",
-        "widget",
-        "version"
-    ],
+    "keywords": ["gearmagic", "gm-panel", "gm-component", "gm-widget", "widget", "version"],
     "homepage": "https://apps.gearmagic.ru/component/gm-ds-version",
     "type": "component",
     "license": "MIT",
